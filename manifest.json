@@ -1,0 +1,14 @@
+{
+  "name": "Serial Communication Interface",
+  "description": "Interface for communicating with Arduino",
+  "version": "0.1",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "16": "calculator-16.png", "128": "calculator-128.png" },
+  "permissions": [
+    "serial"
+  ]
+}
